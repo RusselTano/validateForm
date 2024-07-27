@@ -8,3 +8,5 @@ usernameInput.addEventListener("blur", function () {
     usernameError.style.display = "none";
   }
 });
+
+console.log(usernameError,usernameInput);
