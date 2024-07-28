@@ -9,4 +9,4 @@ usernameInput.addEventListener("blur", function () {
   }
 });
 
-console.log(usernameError,usernameInput);
+// console.log(usernameError,usernameInput);
